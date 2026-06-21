@@ -120,7 +120,7 @@ Personal project built for learning, experimentation and development.
 
 ![Terminal](screenshots/terminal.png)
 
-### Recon
+### Files-Editor-Right click
 
 ![Files](screenshots/files_editor_right-click.png)
 
