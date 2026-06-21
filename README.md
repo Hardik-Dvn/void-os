@@ -124,6 +124,6 @@ Personal project built for learning, experimentation and development.
 
 ![Files](screenshots/files_editor_right-click.png)
 
-### Settings
+### Settings-Recon
 
 ![Settings](screenshots/recon_settings.png)
