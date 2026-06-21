@@ -109,3 +109,21 @@ apps/
 ## License
 
 Personal project built for learning, experimentation and development.
+
+## Screenshots
+
+### Desktop
+
+![Desktop](screenshots/desktop.png)
+
+### Terminal
+
+![Terminal](screenshots/terminal.png)
+
+### Recon
+
+![Files](screenshots/files_editor_right-click.png)
+
+### Settings
+
+![Settings](screenshots/recon_settings.png)
